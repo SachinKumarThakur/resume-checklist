@@ -16,3 +16,35 @@
 ✅ Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive  
 ✅ Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills  
 ✅ No typos or bad grammar  
+
+Resources: Where To Find Jobs?
+Here is a list of my recommended resources for finding that dream job:
+
+My Favourites:
+
+LinkedIn Jobs
+
+HackerNews Who is Hiring (You will need to search for most recent month)
+
+AngelList
+
+
+
+Remote Jobs:
+https://designmodo.com/jobs/
+https://www.remotelist.pw/
+https://remoteonly.io/
+https://weworkremotely.com/
+https://remoteok.io/
+
+Others:
+
+Hired (FYI, this is my personal referral link)
+
+TripleByte
+
+Whitetruffle
+
+Zip Recruiter
+
+Meetup.com
